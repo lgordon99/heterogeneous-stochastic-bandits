@@ -1,1 +1,1 @@
-# heterogeneous-stochastic-bandits
+# Heterogeneous Stochastic Bandits
